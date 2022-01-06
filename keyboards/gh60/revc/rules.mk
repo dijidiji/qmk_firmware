@@ -15,4 +15,4 @@ EXTRAKEY_ENABLE = yes		# Audio control and System control
 NKRO_ENABLE = yes           # Enable N-Key Rollover
 # BACKLIGHT_ENABLE = yes	# Enable keyboard backlight functionality
 
-LAYOUTS = 60_ansi 60_iso 60_ansi_split_bs_rshift 60_tsangan_hhkb
+LAYOUTS = 60_ansi 60_iso 60_ansi_split_bs_rshift 60_tsangan_hhkb 60_ansi_tsangan
